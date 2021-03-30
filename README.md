@@ -1,7 +1,7 @@
 
 # WA7BNM-rss-gui
 
-Small script to parse RSS feed from [https://www.contestcalendar.com/calendar.rss](#%20WA7BNM-rss-gui%20%20Small%20script%20to%20parse%20RSS%20feed%20from%20https://www.contestcalendar.com/calendar.rss) and filter results for Europe/Worldwide and SSB.
+Small script to parse RSS feed from [https://www.contestcalendar.com/calendar.rss](https://www.contestcalendar.com/calendar.rss) and filter results for Europe/Worldwide and SSB.
 
 ## Usage
 Run `npm install` and `node index.js`. A file `contest.json` is created. 
