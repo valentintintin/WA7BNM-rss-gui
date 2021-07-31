@@ -19,7 +19,6 @@ const items = [];
 
 			resp.on('end', () => {
 				const $ = cheerio.load(data);
-				const elements = $('#main table tr td');
 			
 				$('#main table tr').each((i, el) => {				
 					const splited = $(el).text().trim().split(':');

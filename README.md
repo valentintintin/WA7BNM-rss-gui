@@ -5,10 +5,10 @@ Small script to parse RSS feed from [https://www.contestcalendar.com/calendar.rs
 
 ## Usage
 Run `npm install` and `node index.js`. A file `contest.json` is created. 
-You can use the PHP page `ham_contest.php` to see the content.
+You can use the PHP page `index.php` to see the content.
 
 ## Screenshot
-![ham_contest.php screenshot](.github/screen.jpg)
+![index.php screenshot](.github/screen.jpg)
 
 ### JSON structure
 ```json
